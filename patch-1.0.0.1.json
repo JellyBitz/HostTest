@@ -4,6 +4,7 @@
 	"Files": [
 		"data.pk2/test.dat",
 		"media.pk2/test.dat",
+		"Silkroad.exe",
 		"silkcfg.dat",
 	],
 	"PatchRequiredUrl":""
