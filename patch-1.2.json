@@ -1,0 +1,14 @@
+{
+	"Version":"1.2",
+	"Url":"https://jellybitz.github.io/HostTest/Client/",
+	"Files": [
+		"Setting\\SRChattingBlockingList.dat",
+		"Setting\\SRExtQSOption.dat",
+		"Setting/SROptionSet.dat",
+		"Setting/wndpos.dat",
+		"silkcfg.dat",
+		"GFXFileManager.dll",
+		"Silkroad.exe",
+	],
+	"PatchRequiredUrl":"https://jellybitz.github.io/HostTest/patch-1.1.json"
+}
