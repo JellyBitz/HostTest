@@ -7,7 +7,6 @@
 		"Setting/SROptionSet.dat",
 		"Setting/wndpos.dat",
 		"silkcfg.dat",
-		"GFXFileManager.dll",
 		"Silkroad.exe",
 	],
 	"PatchRequiredUrl":"https://jellybitz.github.io/HostTest/patch-1.1.json"
