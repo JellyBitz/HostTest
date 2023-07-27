@@ -3,7 +3,6 @@
 	"Url":"https://jellybitz.github.io/HostTest/Client/",
 	"Files": [
 		"data.dat",
-		"media.dat",
 	],
 	"PatchRequiredUrl":""
 }
